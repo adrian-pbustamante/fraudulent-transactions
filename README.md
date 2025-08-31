@@ -41,3 +41,6 @@ The project is structured in a modular fashion to demonstrate best practices in 
     python src/main.py
     ```
     The `main.py` script will automatically download the data from KaggleHub, run the entire analysis pipeline, and print the results to the console.
+
+
+![Model Comparison](Figure_1.png)
