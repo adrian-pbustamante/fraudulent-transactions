@@ -44,3 +44,6 @@ The project is structured in a modular fashion to demonstrate best practices in 
 
 ## Model Comparison
 ![Model Comparison](Figure_1.png)
+
+## Permutation Feature Importance
+![PFI](Figure_2.png)
