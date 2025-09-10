@@ -17,7 +17,7 @@ The project is structured in a modular fashion to demonstrate best practices in 
 
 ## Key Insights and Findings
 
-* **Top-Performing Model:** The XGBoost Classifier emerged as the best-performing model, achieving a high F1-score of approximately 0.86. Its exceptional precision ($ \approx 0.95 $) is particularly valuable, as it minimizes false alarms and reduces the workload for fraud investigators.
+* **Top-Performing Model:** The XGBoost Classifier emerged as the best-performing model, achieving a high F1-score of approximately 0.86. 
 
 * **Key Predictive Features:** Permutation Feature Importance revealed that the engineered features **V14** and **V10** were the most influential in the model's ability to detect fraud. This provides critical insight into the underlying patterns driving the model's predictions.
 
